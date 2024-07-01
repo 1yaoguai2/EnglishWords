@@ -1,0 +1,54 @@
+Anchor
+Abbreviation
+Acronym
+Address
+alter
+Bold
+Bi-Directional Override
+Big
+Block Quotation
+Break
+cell
+cellpadding
+cellspacing
+Centered
+Citation
+Code
+Definition Description
+Deleted
+Defines a Definition Term
+Division
+Definition List
+Definition Term
+Emphasized
+Font
+Header 1 to Header 6
+Horizontal Rule
+hypertext reference
+Italic
+Inline frame
+Inserted
+Keyboard
+List Item
+navigation lists
+Ordered List
+Option group
+Paragraph
+Preformatted
+Quotation
+Reload
+Strikethrough
+Sample
+Small
+Span
+Source
+Strong
+Subscripted
+Superscripted
+table data cell
+table header cell
+table row
+Teletype
+Underlined
+Unordered List
+Variable
