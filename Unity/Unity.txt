@@ -5,6 +5,23 @@ object
 GameObject
 project
 
+preference 
+unity 
+file 
+edit 
+assets 
+game 
+object 
+component 
+window 
+help 
+scene
+hierarchy 
+inspector
+project 
+console
+package 
+
 
 File 
 open
@@ -125,22 +142,7 @@ quick
 search
 
 
-preference 
-unity 
-file 
-edit 
-assets 
-game 
-object 
-component 
-window 
-help 
-scene
-hierarchy 
-inspector
-project 
-console
-package 
+
 
 
 
